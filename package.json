@@ -1,0 +1,12 @@
+{
+  "name": "nameguard-sdk",
+  "version": "0.1.0",
+  "private": true,
+  "description": "NameGuard contract surface — report shapes, mark/domain/web types, API semantics. No implementation.",
+  "type": "module",
+  "types": "src/index.d.ts",
+  "files": [
+    "src",
+    "docs"
+  ]
+}
